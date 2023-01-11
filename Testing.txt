@@ -8,4 +8,5 @@ Acceptance testing
 What is acceptance Testing?
 Acceptance Testing is conducted by focuses on the client's use of the system and how it functions as a whole unit,
  rather than on the specific interaction between different aspects. 	
-It is type of (blackbox/whitebox testing)..
+It is type of (blackbox/whitebox testing)
+testng
