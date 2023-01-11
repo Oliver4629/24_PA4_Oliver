@@ -1,13 +1,11 @@
-Unit Testing
-______________
-What is unit Testing?
-
-Unit Testing is conducted by  	
+System testing
+What is system Testing?
+System Testing is conducted by
+multiple individual subsystems or sub-components are combined into one all-encompassing larger 
+system thereby allowing the subsystems to function together.	
 It is type of (blackbox/whitebox testing)
-
-
-Integration Testing
-
-What is Integration Testing?
-Integration Testing is conducted by  	
-It is type of (blackbox/whitebox testing)
+Acceptance testing
+What is acceptance Testing?
+Acceptance Testing is conducted by focuses on the client's use of the system and how it functions as a whole unit,
+ rather than on the specific interaction between different aspects. 	
+It is type of (blackbox/whitebox testing)..
